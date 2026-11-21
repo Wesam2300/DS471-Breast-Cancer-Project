@@ -21,9 +21,9 @@ The project follows the five required stages:
 
 | Name | Student ID |
 |------|------------|
-| [Hady Al-Mahfoud] | [S230050934] |
-| [Wesam Johali] | [S230018342] |
-| [Mohamed Khred] | [S230032286] |
-| [Saeed Jahlan] | [S230052137] |
+| Hady Al-Mahfoud | S230050934 |
+| Wesam Johali | S230018342 |
+| Mohamed Khred | S230032286 |
+| Saeed Jahlan | S230052137 |
 
 ---
