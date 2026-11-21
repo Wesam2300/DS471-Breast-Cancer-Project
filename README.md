@@ -17,11 +17,13 @@ The project follows the five required stages:
 | 5 | Model Final Evaluation and Comparison | Done |
 
 ---
-
 ## 👥 Group Members
 
-Name: Hady Al-Mahfoud|ID: S230050934
-Name: Wesam Johali|ID: S230018342
-Name: Mohamed Khred|ID:  S230032286
-Name: Saeed Jahlan|ID: S230052137
+| Name | Student ID |
+|------|------------|
+| [Hady Al-Mahfoud] | [S230050934] |
+| [Wesam Johali] | [S230018342] |
+| [Mohamed Khred] | [S230032286] |
+| [Saeed Jahlan] | [S230052137] |
+
 ---
